@@ -14,8 +14,6 @@ public class peekneigh {
             break;
         }
         else if(i==arr.length-1 && arr[i]>=arr[i-1]){
-            
-
             System.out.println(arr[i]);
             break;
         }
